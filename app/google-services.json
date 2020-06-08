@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586553371148",
+    "firebase_url": "https://recuperacionm8-cb059.firebaseio.com",
+    "project_id": "recuperacionm8-cb059",
+    "storage_bucket": "recuperacionm8-cb059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586553371148:android:c4e2d563a24184e69f9c29",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586553371148-fuu07fnnlrci8k3ep3pu8p960apk09s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVq2slGMrFs66BnrDmbpPi8sVbIlVNboI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586553371148-fuu07fnnlrci8k3ep3pu8p960apk09s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
